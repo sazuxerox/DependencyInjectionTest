@@ -1,0 +1,6 @@
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
