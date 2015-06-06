@@ -4,3 +4,5 @@ F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\Depen
 F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
 F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
 F:\My Works\Console Test\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\Ninject.dll
+F:\My Works\Console Test\DependencyInjection\DependencyInjection\bin\Debug\Ninject.xml

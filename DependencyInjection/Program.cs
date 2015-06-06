@@ -3,6 +3,7 @@
 
 
 using System.Net.Mail;
+using Ninject;
 
 namespace DependencyInjection
 {
@@ -10,8 +11,13 @@ namespace DependencyInjection
     {
         static void Main(string[] args)
         {
-            var mailservice = new MailService(new EventLogger());
-            mailservice.SendMail("abc@gmail.com","sazzadhossain@live.com", "My first DI app", "Hello World");
+            using (var kernel =  new StandardKernel())
+            {
+                kernel.Bind<ILogger>().To<ConsoleLogger>();
+                var mailservice = kernel.Get<MailService>();
+                mailservice.SendMail("someone@domain.com", "Hi", "Hello World!");
+            }
+            
         }
     }
 }
